@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/foomin10
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://foomin10.github.io
+  * I am foomin10 (https://keybase.io/foomin10) on keybase.
+  * I have a public key with fingerprint 7BE3 71BA 7922 482A 745C  01AB 27E2 F0D4 91E7 18F0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b7fb44acbbbb731cd6b5874d2adf13e2498900589cd498443085780099bfe1570a",
+      "fingerprint": "7be371ba7922482a745c01ab27e2f0d491e718f0",
+      "host": "keybase.io",
+      "key_id": "27e2f0d491e718f0",
+      "kid": "0101b7fb44acbbbb731cd6b5874d2adf13e2498900589cd498443085780099bfe1570a",
+      "uid": "28ef0a44aec51b672f385d62adaa6e19",
+      "username": "foomin10"
+    },
+    "service": {
+      "hostname": "foomin10.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1521419438,
+  "expire_in": 157680000,
+  "prev": "666a600d7beedd45f5a69aeb53e816da5428437e6d95414dba57ceb0f82c0a3a",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNFAnicrVJtUBVVGL4XqRGM0UFtGK20RSYtpN29+3lHAwYcw9D4jK/wztnds5cd
+YBfuvSBCCAaFo6mgfGjAWNIw1uDHSGMYMw7XiouCjoOEqBcGsYYgM5BAvsLOav1p
++tn5c855z/M87/O+5/3eZ5HB2/ja0FhPxbDfmLHTWZ9jSD7reaYAEzRpN2YuwNLh
+0w1mSNDusKQrEmbGcAInBFYWKAqIAlqsiRAlRqA5lpJIIMmECZIUz/E4TnO8KKEj
+RZlwjmY5HOd5QYYEzeIAC8RkRbVCW5ZNUR1IlhWgiSUEwPIkSXEkYClaxAkgkCwk
+ZRzJEJAlOBlHxDTNrjOQOQHYYZCioRi6WJ7a+w/8/+w751keDso4QGJQpAmBYUnZ
+xNESg5QAYCDB60A7tKkgEyK0rGmZikrgWGEghqK5igj1xuqV/AsRZFUcaTnCs6qy
+bJpDE7UM9J7mcGTZzTrfsTtLJ+yCguVvKYugqBLqJmLkQptd0VTMTCCk6FB0bYIm
+CYrgKRMXiMG8LMUGLYqOoFkG1Ybjeh6YiyQZhgEMjkvoL6AkUbRMA4YHUKBNkCMY
+CdAUyVEmFjIST1MEJQmAZkUo4DJHijgw6c2xw2xVw8wUsgmsSNKuWFXgyLFBrPCy
+831Pg9Hb8PxzHvqUGby9lv0ze5/lL31SEDjcb917hatOVOM8b44eqfutv6zv1Qv7
+fo7e9qs20VPbG95U7d/enOLK9wmtyIxoSypKaJ23bvXakujpfzCGqz25gYj03rG4
+am380fFP11g2fz1vDL+6rfmt7vhhovGX7G8t2pqYTywDIQFFqd+UuiPLQjyYtUOn
+TIJn4WztqTKLreUjmzNx5DSo7DBjsXnF7xWfn+u73X27pqSzvTmZ7oiPSv3gy42E
+azK2uynn4bouS8Zcpa/b4B6+WzOy/Viyf/CKZlfKmzt/j5Vf2OhxoyH0bZ+XQlr6
+QqYvTo+PJHQ9bnWdix4cnVi0Uqz5oWqK7DR7fNWY3lp1Z769qzqpXJQPlvQUpRra
+ti/pWjL9blh208yDvGub8qt2ph7aP3itl5/1mwgeDT3a+LIr4WTbizR9IvZP8wP1
+0k8bBmIWqOqSgujSYnfEjy19jweNvkFxryS1fHE/Cjt3/95UuFY/SX9ct/ni3J6x
+4EcdVqV52WDYgfpNAf0N5aXhhcfX3cMeel9ILC9xXY24vmN5nTPb98Pzn+/zSvFL
+LGQuOY6MvH58yNr6x8D6G/R3Yc49xTGjTxoqKierffNblq6ydj+qCKtd6J4OcEbd
+mjJfrmlNXrl6152ZmP5IqUENeGP13siMuLFp8M6Vw029kdmHV8yY99/dumX8zPXO
+hVnbqmMnzuLLbw6dNlbO3XIf+gv5ztSc
+=PRRs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/foomin10
+
+==================================================================
